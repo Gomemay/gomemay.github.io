@@ -18,7 +18,7 @@ header {
 .email {
 	font-size: 20px;
 	color: rgba(137, 163, 255, 1);
-	background-image: url(img/vector.svg);
+	background-image: url(img/Vector.svg);
 	background-repeat: no-repeat;
 	background-position: left;
 	/*border: 2px solid #fff;*/
@@ -194,7 +194,7 @@ h1 {
 }
 
 .name-js {
-	background-image: url(img/Javascript.svg);
+	background-image: url(img/javascript.svg);
 	background-repeat: no-repeat;
 	font-family: 'Roboto', sans-serif;
 	font-size: 36px;
